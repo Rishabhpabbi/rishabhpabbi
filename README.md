@@ -34,16 +34,6 @@ I transform complex biological data into insights that save lives. Currently res
 - **Prognostic Factors for Mortality in Heart Failure Patients** - Cox Regression Analysis (2025)
 - **Identifying Sources of Antibody in Tumor Microenvironment** - MSc Research (In Progress)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpabbi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpabbi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://rishabhpabbi.github.io)
